@@ -2,6 +2,16 @@
 
 Chord Design System의 컴포넌트별 상세 스펙 문서 목록입니다.
 
+# Component Index
+- [avartar.md](https://raw.githubusercontent.com/pine-weverse/agent-docs/refs/heads/main/components/avatar.md)
+- [avatar_group.md](https://raw.githubusercontent.com/pine-weverse/agent-docs/refs/heads/main/components/avatar_group.md)
+- [badge.md](https://raw.githubusercontent.com/pine-weverse/agent-docs/refs/heads/main/components/badge.md)
+- [button.md](https://raw.githubusercontent.com/pine-weverse/agent-docs/refs/heads/main/components/button.md)
+- [dialog.md](https://raw.githubusercontent.com/pine-weverse/agent-docs/refs/heads/main/components/dialog.md)
+- [list_item.md](https://raw.githubusercontent.com/pine-weverse/agent-docs/refs/heads/main/components/list_item.md)
+- [tag.md](https://raw.githubusercontent.com/pine-weverse/agent-docs/refs/heads/main/components/tag.md)
+- [text_field.md](https://raw.githubusercontent.com/pine-weverse/agent-docs/refs/heads/main/components/text_fields.md)
+
 ---
 
 ## ✅ 완료된 컴포넌트 (상세 스펙 문서화)
